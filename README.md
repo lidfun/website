@@ -11,3 +11,4 @@ _dangerous_. This means you'll be able to use Git to track changes in your proje
 back up data, share your work with others, and collaborate with programmers and
 other users of Git.
 
+[Git Documentation](https://git-scm.com/doc)
